@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293636335606",
+    "project_id": "simcodersnapapp",
+    "storage_bucket": "simcodersnapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293636335606:android:3bd3b1e6265efe7ec749d7",
+        "android_client_info": {
+          "package_name": "com.erhanbasaran.simcodersnapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293636335606-317c8n0ov3j8m1veelesbsvbuedc63vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsb0arPFQw5TbO-jHRoWpyFUyAT6HL2zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293636335606-317c8n0ov3j8m1veelesbsvbuedc63vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
